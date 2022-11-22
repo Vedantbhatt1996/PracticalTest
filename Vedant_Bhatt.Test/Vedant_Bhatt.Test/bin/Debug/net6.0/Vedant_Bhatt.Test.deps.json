@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Vedant_Bhatt.Test/1.0.0": {
+        "runtime": {
+          "Vedant_Bhatt.Test.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Vedant_Bhatt.Test/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

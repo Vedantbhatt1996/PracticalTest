@@ -1,0 +1,15 @@
+C:\Users\priye\OneDrive\Desktop\Vedant_Bhatt\Vedant_Bhatt.Test\Vedant_Bhatt.Test\bin\Debug\net6.0\Vedant_Bhatt.Test.exe
+C:\Users\priye\OneDrive\Desktop\Vedant_Bhatt\Vedant_Bhatt.Test\Vedant_Bhatt.Test\bin\Debug\net6.0\Vedant_Bhatt.Test.deps.json
+C:\Users\priye\OneDrive\Desktop\Vedant_Bhatt\Vedant_Bhatt.Test\Vedant_Bhatt.Test\bin\Debug\net6.0\Vedant_Bhatt.Test.runtimeconfig.json
+C:\Users\priye\OneDrive\Desktop\Vedant_Bhatt\Vedant_Bhatt.Test\Vedant_Bhatt.Test\bin\Debug\net6.0\Vedant_Bhatt.Test.dll
+C:\Users\priye\OneDrive\Desktop\Vedant_Bhatt\Vedant_Bhatt.Test\Vedant_Bhatt.Test\bin\Debug\net6.0\Vedant_Bhatt.Test.pdb
+C:\Users\priye\OneDrive\Desktop\Vedant_Bhatt\Vedant_Bhatt.Test\Vedant_Bhatt.Test\obj\Debug\net6.0\Vedant_Bhatt.Test.csproj.AssemblyReference.cache
+C:\Users\priye\OneDrive\Desktop\Vedant_Bhatt\Vedant_Bhatt.Test\Vedant_Bhatt.Test\obj\Debug\net6.0\Vedant_Bhatt.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\priye\OneDrive\Desktop\Vedant_Bhatt\Vedant_Bhatt.Test\Vedant_Bhatt.Test\obj\Debug\net6.0\Vedant_Bhatt.Test.AssemblyInfoInputs.cache
+C:\Users\priye\OneDrive\Desktop\Vedant_Bhatt\Vedant_Bhatt.Test\Vedant_Bhatt.Test\obj\Debug\net6.0\Vedant_Bhatt.Test.AssemblyInfo.cs
+C:\Users\priye\OneDrive\Desktop\Vedant_Bhatt\Vedant_Bhatt.Test\Vedant_Bhatt.Test\obj\Debug\net6.0\Vedant_Bhatt.Test.csproj.CoreCompileInputs.cache
+C:\Users\priye\OneDrive\Desktop\Vedant_Bhatt\Vedant_Bhatt.Test\Vedant_Bhatt.Test\obj\Debug\net6.0\Vedant_Bhatt.Test.dll
+C:\Users\priye\OneDrive\Desktop\Vedant_Bhatt\Vedant_Bhatt.Test\Vedant_Bhatt.Test\obj\Debug\net6.0\refint\Vedant_Bhatt.Test.dll
+C:\Users\priye\OneDrive\Desktop\Vedant_Bhatt\Vedant_Bhatt.Test\Vedant_Bhatt.Test\obj\Debug\net6.0\Vedant_Bhatt.Test.pdb
+C:\Users\priye\OneDrive\Desktop\Vedant_Bhatt\Vedant_Bhatt.Test\Vedant_Bhatt.Test\obj\Debug\net6.0\Vedant_Bhatt.Test.genruntimeconfig.cache
+C:\Users\priye\OneDrive\Desktop\Vedant_Bhatt\Vedant_Bhatt.Test\Vedant_Bhatt.Test\obj\Debug\net6.0\ref\Vedant_Bhatt.Test.dll
